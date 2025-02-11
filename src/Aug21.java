@@ -2,7 +2,7 @@
 public class Aug21 {
 
 	public static void main(String[] args) {
-		int a = 1;
+		int a = 2;
    switch (a) {
    case 1 : {
 	   System.out.println("1");
